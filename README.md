@@ -8,4 +8,4 @@ npm install
 npm start
 ```
 
-Your app will start on [localhost:3000](https://localhost:3000)
+Your app will start on [localhost:3000](http://localhost:3000/)
